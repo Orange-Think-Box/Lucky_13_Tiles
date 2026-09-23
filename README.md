@@ -1,6 +1,6 @@
-# Lucky T1L3S
+# Lucky 13 Tiles
 
-**Lucky T1L3S** is a compact number-matching puzzle game built around one simple challenge: select available tiles that add up to **13**, remove them from the board, and keep uncovering new possibilities until every tile is gone.
+**Lucky 13 Tiles** is a compact number-matching puzzle game built around one simple challenge: select available tiles that add up to **13**, remove them from the board, and keep uncovering new possibilities until every tile is gone.
 
 The rules are easy to understand, but clearing a board takes more than quick arithmetic. Every combination changes which tiles become available next. A move that looks perfect now may block a better combination later, so players must balance immediate opportunities with the shape of the board underneath.
 
@@ -32,7 +32,7 @@ A successful puzzle requires players to:
 
 ## Board Patterns
 
-Lucky T1L3S uses different board shapes to keep each puzzle visually distinct and strategically interesting. Current patterns include:
+Lucky 13 Tiles uses different board shapes to keep each puzzle visually distinct and strategically interesting. Current patterns include:
 
 - Stepped Pyramid
 - Diamond
@@ -64,7 +64,7 @@ Once the puzzle has been cleared, the completion screen summarizes the result an
 
 ## Why It Works
 
-Lucky T1L3S combines familiar arithmetic with a layered board-clearing mechanic. The math is approachable, but the puzzle comes from deciding which combination to remove and when.
+Lucky 13 Tiles combines familiar arithmetic with a layered board-clearing mechanic. The math is approachable, but the puzzle comes from deciding which combination to remove and when.
 
 The result is a game that is:
 
@@ -80,5 +80,5 @@ The central question is always simple:
 
 ## Current Status
 
-Lucky T1L3S is currently in active prototype and design development. Game rules, board generation, visual presentation, progression, scoring, and daily-play features may continue to evolve as the puzzle is tested and refined.
+Lucky 13 Tiles is currently in active prototype and design development. Game rules, board generation, visual presentation, progression, scoring, and daily-play features may continue to evolve as the puzzle is tested and refined.
 
