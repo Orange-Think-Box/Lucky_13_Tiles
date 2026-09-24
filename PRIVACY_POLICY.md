@@ -1,13 +1,13 @@
-# Privacy Policy for Lucky T1L3S
+# Privacy Policy for Lucky 13 Tiles
 
 **Effective date:** September 23, 2026  
 **Last updated:** September 23, 2026
 
-Lucky T1L3S (the **“App”**) respects your privacy. The App is designed to be played without creating an account or providing personal information.
+Lucky 13 Tiles (the **“App”**) respects your privacy. The App is designed to be played without creating an account or providing personal information.
 
 ## Information We Collect
 
-The developer of Lucky T1L3S does not collect, store, transmit, sell, rent, or share your personal data.
+The developer of Lucky 13 Tiles does not collect, store, transmit, sell, rent, or share your personal data.
 
 The App does not use:
 
@@ -26,7 +26,7 @@ This information remains on your device, is not transmitted to or accessible by 
 
 ## Game Center and Apple Services
 
-Lucky T1L3S may offer optional features provided by Apple, such as Game Center leaderboards. If you use these features, Apple may process information associated with your Apple Account or Game Center profile, including your nickname, avatar, scores, achievements, and related activity.
+Lucky 13 Tiles may offer optional features provided by Apple, such as Game Center leaderboards. If you use these features, Apple may process information associated with your Apple Account or Game Center profile, including your nickname, avatar, scores, achievements, and related activity.
 
 The developer does not operate Game Center and does not store this information on developer-controlled servers. Apple’s collection and use of information is governed by Apple’s own privacy policies. You can learn more at:
 
